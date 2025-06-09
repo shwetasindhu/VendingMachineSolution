@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZlPW5JTg0k=",
+  "success": true,
+  "projectFilePath": "D:\\VendingMachine\\VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mstest.analyzers\\3.9.1\\mstest.analyzers.3.9.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mstest.testframework\\3.9.1\\mstest.testframework.3.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
